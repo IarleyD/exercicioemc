@@ -1,0 +1,2 @@
+# exercicioemc
+exercicio em c
